@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning
    Reactjs/
    Nodejs/
-   flutter.
+   PHP Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   FB  : H.Hlaing Swan/
